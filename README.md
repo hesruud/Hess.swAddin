@@ -1,0 +1,2 @@
+# Hess.swAddin
+Solidworks addin
